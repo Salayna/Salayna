@@ -1,4 +1,5 @@
 # Salayna 
+<img src="./images/grizz.jpg" alt="Grizz"/>
 
 ## Who Am I ?
 
@@ -27,6 +28,16 @@ I first started IT at the age of 8 with a decent windows XP computer when I was 
    
  ## Other Stuffs about Me
   ### Used To Draw a lot
+  Here is some the Artwork I've done in the past   
+  <img src="./images/julien.jpg" width="20%" alt="Julien"/>
+  <img src="./images/B1.jpg" width="20%" alt="Balanced"/>
+  <img src="./images/Aimene.jpg" width="20%" alt="Aimene"/>
+  <img src="./images/Dan.jpg" width="20%" alt="Daniel"/>
+  <img src="./images/Henri.jpg" width="20%" alt="Henri"/>
+  <img src="./images/NKLUSSIO.jpg" width="20%" alt="NK"/>
+  <img src="./images/Sara.jpg" width="20%" alt="Sara"/>  
+  <img src="./images/grizz.jpg" alt="Grizz"/>
+
 <!--
 **Salayna/Salayna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
