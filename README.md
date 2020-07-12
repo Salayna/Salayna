@@ -47,7 +47,7 @@ I first started IT at the age of 8 with a decent windows XP computer when I was 
  * [My API Starter for MongoDB and Express](https://github.com/Salayna/NodeJs-MongoDB-API-Starter): Some friends told that making this repo prouves that I'm lazy but really, If I can not make something from scratch and really starts fast, I will. So basically this an APi starter with Express, Babel and Mongoose already setup, You're Welcome and Feel free to give me Feedbacks(Through the issues)  
  Yep that's all, I have a other projects on Github but most of theme are School Project or Not that interesting. I'll Updated this From Time to Time, soo this Readme is a WIP 😉
   
- ## Wanna Contact Me
+ ## Wanna Contact Me ?
  
  Mail : salaynadoukoure@gmail.com
 <!--
