@@ -1,5 +1,5 @@
 # Salayna(He)
-<img src="https://github.com/Salayna/Salayna/blob/master/images/grizz.jpg" alt="Grizz"/>
+<!--<img src="https://github.com/Salayna/Salayna/blob/master/images/grizz.jpg" alt="Grizz"/> -->
 
 ## Who Am I ?
 
