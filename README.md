@@ -1,4 +1,4 @@
-# Salayna 
+# Salayna(He)
 <img src="./images/grizz.jpg" alt="Grizz"/>
 
 ## Who Am I ?
@@ -28,17 +28,28 @@ I first started IT at the age of 8 with a decent windows XP computer when I was 
    
  ## Other Stuffs about Me
   ### Used To Draw a lot
-  Here is some the Artwork I've done in the past
-  
-  <img src="./images/julien.jpg" width="20%" alt="Julien"/>
+  Here is some the Artwork I've done in the past  
+  <img src="./images/Julien.jpg" width="20%" alt="Julien"/>
   <img src="./images/B1.jpg" width="20%" alt="Balanced"/>
   <img src="./images/Aimene.jpg" width="20%" alt="Aimene"/>
   <img src="./images/Dan.jpg" width="20%" alt="Daniel"/>
   <img src="./images/Henri.jpg" width="20%" alt="Henri"/>
   <img src="./images/NKLUSSIO.jpg" width="20%" alt="NK"/>
   <img src="./images/Sara.jpg" width="20%" alt="Sara"/>  
-  <img src="./images/grizz.jpg" alt="Grizz"/>
+  <img src="./images/grizz.jpg" alt="Grizz"/>  
+  And as You see on this last one I Really Love Grizzly Bears !!!
 
+ ### Studio JM Production
+  I'm curently the vice-president of the STudio JM Production, a French cultural Association. SJMP handles Small Film Making and covers event like Japan Expo, Jonetsu 555 and So on, we're partner of companies like Warner Media, Lanovel Edition(Through our cute Mascot Konata ❤️).
+  
+ ### Some Project I have on Github
+ 
+ * [My API Starter for MongoDB and Express](https://github.com/Salayna/NodeJs-MongoDB-API-Starter): Some friends told that making this repo prouves that I'm lazy but really, If I can not make something from scratch and really starts fast, I will. So basically this an APi starter with Express, Babel and Mongoose already setup, You're Welcome and Feel free to give me Feedbacks(Through the issues)  
+ Yep that's all, I have a other projects on Github but most of theme are School Project or Not that interesting. I'll Updated this From Time to Time, soo this Readme is a WIP 😉
+  
+ ## Wanna Contact Me
+ 
+ Mail : salaynadoukoure@gmail.com
 <!--
 **Salayna/Salayna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
