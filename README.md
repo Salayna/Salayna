@@ -28,7 +28,8 @@ I first started IT at the age of 8 with a decent windows XP computer when I was 
    
  ## Other Stuffs about Me
   ### Used To Draw a lot
-  Here is some the Artwork I've done in the past   
+  Here is some the Artwork I've done in the past
+  
   <img src="./images/julien.jpg" width="20%" alt="Julien"/>
   <img src="./images/B1.jpg" width="20%" alt="Balanced"/>
   <img src="./images/Aimene.jpg" width="20%" alt="Aimene"/>
