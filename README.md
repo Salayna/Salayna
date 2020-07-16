@@ -37,7 +37,7 @@ I first started IT at the age of 8 with a decent windows XP computer when I was 
   <img src="https://github.com/Salayna/Salayna/blob/master/images/NKLUSSIO.jpg" width="20%" alt="NK"/>
   <img src="https://github.com/Salayna/Salayna/blob/master/images/Sara.jpg" width="20%" alt="Sara"/>  
   <img src="https://github.com/Salayna/Salayna/blob/master/images/grizz.jpg" alt="Grizz"/>  
-  And as You can see on this last one I Really Love Grizzly Bears !!!
+  And as You can see on this last one I Really Love Bears !!!
 
  ### Studio JM Production
   I'm curently the vice-president of the STudio JM Production, a French cultural Association. SJMP handles Small Film Making and covers event like Japan Expo, Jonetsu 555 and So on, we're partner of companies like Warner Media, Lanovel Edition(Through our cute Mascot Konata ❤️).
