@@ -3,7 +3,7 @@
 
 ## Who Am I ?
 
-French🇫🇷 Based Student currently learning Mobile Developement and IoT but I have a bg crush on Backend Developement.  
+French🇫🇷 Based Student currently learning Mobile Developement and IoT but I have a big crush on Backend Developement.  
 Newly wed(Yep at 22), I decided that NodeJs would be my second Wife(Sorry babe I love you tho ! ❤️)
 I first started IT at the age of 8 with a decent windows XP computer when I was living in Senegal with my cousin who was an IT student. But I stopped for a long time and was mostly doing anything else but IT. But starting High School I got back to it for whatever reason and Fell in Love again and since, I never really Stopped.
 
