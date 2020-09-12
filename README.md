@@ -3,9 +3,9 @@
 
 ## Who Am I ?
 
-French🇫🇷 Based Student currently learning Mobile Developement and IoT but I have a big crush on Backend Developement.  
-Newly wed(Yep at 22), I decided that NodeJs would be my second Wife(Sorry babe I love you tho ! ❤️)
-I first started IT at the age of 8 with a decent windows XP computer when I was living in Senegal with my cousin who was an IT student. But I stopped for a long time and was mostly doing anything else but IT. But starting High School I got back to it for whatever reason and Fell in Love again and since, I never really Stopped.
+France🇫🇷 Based Student currently learning Mobile Development and IoT but I have a big crush on Backend Developement.  
+Newly wed(Yep at 22), I decided that NodeJs would be my second Wife(Sorry babe I love you more tho ! ❤️)
+I first started IT at the age of 8 with a decent windows XP computer when I was living in Senegal with my cousin who was an IT student. But I stopped for a long time and was mostly doing anything else but IT. But starting High School I got back to it for whatever reason and fell in Love again and since, I never really Stopped.
 
 ## Work Experience
 
@@ -28,12 +28,12 @@ I first started IT at the age of 8 with a decent windows XP computer when I was 
    
  ## Other Stuffs about Me
    ### Studio JM Production
-  I'm curently the vice-president of the STudio JM Production, a French cultural Association. SJMP handles Small Film Making and covers event like Japan Expo, Jonetsu 555 and So on, we're partner of companies like Warner Media, Lanovel Edition(Through our cute Mascot Konata ❤️).
+  I'm curently the vice-president of the Studio JM Production, a French cultural Association. SJMP handles Small Film Making and covers event like Japan Expo, Jonetsu 555 and So on, we're partner of companies like Warner Media, Lanovel Edition(Through our cute Mascot Konata ❤️).
   
  ### Some Project I work on my Spare Time
  
- * [My API Starter for MongoDB and Express](https://github.com/Salayna/NodeJs-MongoDB-API-Starter): Some friends told that making this repo prouves that I'm lazy but really, If I can not make something from scratch and really starts fast, I will. So basically this an APi starter with Express, Babel and Mongoose already setup, You're Welcome and Feel free to give me Feedbacks(Through the issues)  
- Yep that's all, I have a other projects on Github but most of theme are School Project or Not that interesting. I'll Updated this From Time to Time, soo this Readme is a WIP 😉  
+ * [My API Starter for MongoDB and Express](https://github.com/Salayna/NodeJs-MongoDB-API-Starter): Some friends told that making this repo prouves that I'm lazy but really, If I can, not make something from scratch and start faster, I will. So basically this an APi starter with Express, Babel and Mongoose already setup, You're Welcome and Feel free to give me Feedbacks(Through the issues)  
+ Yep that's all, I have other projects on Github but most of theme are School Projects or Not that interesting. I'll Update this From Time to Time, soo this Readme is a WIP 😉  
  
   ### Used To Draw a lot
   Here is some the Artwork I've done in the past  
@@ -49,7 +49,7 @@ I first started IT at the age of 8 with a decent windows XP computer when I was 
   
  ## Wanna Contact Me ?
  
- Mail : salaynadoukoure@gmail.com  
+ Mail : salaynadoukoure@gmail.com||salayna@sdoukoure.fr   
  Instagram : [Salayna](https://www.instagram.com/_salayna/)  
  Twitter : [Salayna Doukoure](https://twitter.com/DoukoureSalayna)
 <!--
