@@ -33,8 +33,10 @@ I first started IT at the age of 8 with a decent windows XP computer when I was 
    * Linux Systems Administration
    
  ## Other Stuffs about Me
+   ### Lazer Tapes Production
+   My Journey at Studio JM Production is over and I'm now moving on to Lazer Tapes Production a film making studio that I created with other former members of the association. Our main goal is to make some good movies with a real focus on esthetic and experimentation. Our Journey starts at December 3rd 2020, wish us good luck
    ### Studio JM Production
-  I'm curently the vice-president of the Studio JM Production, a French cultural Association. SJMP handles Small Film Making and covers event like Japan Expo, Jonetsu 555 and So on, we're partner of companies like Warner Media, Lanovel Edition(Through our cute Mascot Konata ❤️).
+  I'm the former vice-president of the Studio JM Production, a French cultural Association. SJMP handles Small Film Making and covers event like Japan Expo, Jonetsu 555 and So on, we're partner of companies like Warner Media, Lanovel Edition(Through our cute Mascot Konata ❤️).
   
  ### Some Project I work on my Spare Time
  
