@@ -9,12 +9,18 @@ I first started IT at the age of 8 with a decent windows XP computer when I was 
 
 ## Work Experience
 
-* **Mobile Developper at STSISI(Technical Section French Ministry of Interior)**  
+* **DevOps @ NRCI**
+  * Web Development
+  * Moblie Development
+  * crafting connected Environment
+  * Cloud Infrastructures Set-Up and Monitoring
+
+* **Mobile Developper @ STSISI(Technical Section French Ministry of Interior)**  
   * Making and Maintaining an Android App
   * Network and System Administration
   * Backend devloping for testing purpose
 
-* **Network and System Administartor and Web DEvelopper at Calysta (internship)**
+* **Network and System Administartor and Web DEvelopper @ Calysta (internship)**
   * Developping a Website and and e-learning website(Using Moodle)
   * Setup the servers and Sytems for the Website
   
