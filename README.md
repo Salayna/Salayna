@@ -57,7 +57,7 @@ I first started IT at the age of 8 with a decent windows XP computer when I was 
   
  ## Wanna Contact Me ?
  
- Mail : salaynadoukoure@gmail.com||salayna@sdoukoure.fr   
+ Mail : salaynadoukoure@gmail.com   
  Instagram : [Salayna](https://www.instagram.com/_salayna/)  
  Twitter : [Salayna Doukoure](https://twitter.com/DoukoureSalayna)
 <!--
