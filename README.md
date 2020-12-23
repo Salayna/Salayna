@@ -1,7 +1,5 @@
 # Salayna(He)
 <!--<img src="https://github.com/Salayna/Salayna/blob/master/images/grizz.jpg" alt="Grizz"/> -->
-<figure><embed src="https://wakatime.com/share/@e64a8afd-91e9-4b3d-b3e8-304ccb223724/e00408b3-5aef-4d71-aeaa-1ee31166b2d1.svg"></embed></figure>
-
 ## Who Am I ?
 
 France🇫🇷 Based Student currently learning Mobile Development and IoT but I have a big crush on Backend Developement.  
@@ -35,6 +33,8 @@ I first started IT at the age of 8 with a decent windows XP computer when I was 
    * Linux Systems Administration
    
  ## Other Stuffs about Me
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@e64a8afd-91e9-4b3d-b3e8-304ccb223724/f0448266-8e8c-45ef-83df-98378ed64f89.png" /></a>
+
    ### Lazer Tapes Production
    My Journey at Studio JM Production is over and I'm now moving on to Lazer Tapes Production a film making studio that I created with other former members of the association. Our main goal is to make some good movies with a real focus on esthetic and experimentation. Our Journey starts at December 3rd 2020, wish us good luck
    ### Studio JM Production
