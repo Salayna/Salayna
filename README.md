@@ -1,11 +1,13 @@
 # Salayna(He)
 <!--<img src="https://github.com/Salayna/Salayna/blob/master/images/grizz.jpg" alt="Grizz"/> -->
+<figure><embed src="https://wakatime.com/share/@e64a8afd-91e9-4b3d-b3e8-304ccb223724/e00408b3-5aef-4d71-aeaa-1ee31166b2d1.svg"></embed></figure>
 
 ## Who Am I ?
 
 France🇫🇷 Based Student currently learning Mobile Development and IoT but I have a big crush on Backend Developement.  
 Newly wed(Yep at 22), I decided that NodeJs would be my second Wife(Sorry babe I love you more tho ! ❤️)
 I first started IT at the age of 8 with a decent windows XP computer when I was living in Senegal with my cousin who was an IT student. But I stopped for a long time and was mostly doing anything else but IT. But starting High School I got back to it for whatever reason and fell in Love again and since, I never really Stopped.
+
 
 ## Work Experience
 
