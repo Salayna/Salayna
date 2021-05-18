@@ -33,8 +33,6 @@ I first started IT at the age of 8 with a decent windows XP computer when I was 
    * Linux Systems Administration
    
  ## Other Stuffs about Me
- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@e64a8afd-91e9-4b3d-b3e8-304ccb223724/f0448266-8e8c-45ef-83df-98378ed64f89.png" /></a>
-
    ### Studio JM Production
   I'm the former vice-president of the Studio JM Production, a French cultural Association. SJMP handles Small Film Making and covers event like Japan Expo, Jonetsu 555 and So on, we're partner of companies like Warner Media, Lanovel Edition(Through our cute Mascot Konata ❤️).
   
