@@ -1,4 +1,6 @@
 # Salayna(He)
+[![Salayna, Web - Mobile - IoT](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Web%20-%20Mobile%20-%20IoT&title=Salayna)](https://pimp-my-readme.webapp.io)
+## Tech
 [![Salayna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salayna&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salayna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
