@@ -1,25 +1,50 @@
-# Salayna(He)
-[![Salayna, Web - Mobile - IoT](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Web%20-%20Mobile%20-%20IoT&title=Salayna)](https://pimp-my-readme.webapp.io)
-## Tech
-[![Salayna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salayna&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salayna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# Hi, I'm Salayna 👋
 
- ## Contact Me
- 
- Mail : salaynadoukoure@gmail.com   
- Instagram : [Salayna](https://www.instagram.com/_salayna/)  
- Twitter : [Salayna Doukoure](https://twitter.com/DoukoureSalayna)
-<!--
-**Salayna/Salayna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Multi-passionate maker fueled by curiosity.**  
+Mobile Developer | Flutter, Kotlin & Android Enthusiast | TTRPG Nerd | Basketball Lover
 
-Here are some ideas to get you started:
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Mobile Development](https://img.shields.io/badge/Mobile_Developer-000000?style=flat&logo=android&logoColor=white)
+![IOT Maker](https://img.shields.io/badge/IOT%20Maker-2E6F40)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me  
+
+Hi! I'm Salayna—a creative builder who thrives on curiosity and learning.  
+I specialize in **mobile development with Flutter, Kotlin, and Android**, transforming ideas into polished, user-friendly apps.  
+
+Beyond tech, I’m deeply inspired by games, sports, and storytelling—fueling the creativity I bring into every project.  
+
+- 🛠️ **Builder at heart:** I create apps, workflows, and tools that solve real problems.  
+- 🏀 **Basketball lover:** Always chasing growth, on the court and in code.  
+- 🎲 **TTRPG nerd:** Storytelling and strategy are my jam—great training for creative problem-solving.  
+
+---
+### 🌟 What I Build  
+
+- **Mobile apps with Flutter, Kotlin & Android** — clean architecture, offline-first, Supabase integration.  
+- **Creative tools** — from productivity apps to drawing engines.  
+- **Gaming-inspired systems** — TTRPG tools, storytelling mechanics, and experiments with AR.  
+
+---
+
+### 🌟 Featured Work  
+> *(Most of my projects are private cause I tend to use them as experimentation ground and they are often chaotic — reach out if you’d like to know more!)*  
+
+- **Popup Art Exhibition App** — Mobile app built with Flutter and ARCore, showcasing interactive art in augmented reality.  
+- **Task & Scheduling App** — Offline-first Flutter app with Supabase sync, designed for flexibility and ADHD-friendly planning.  
+- **Just a Radio** — Cross-platform mobile radio streaming app with Kotlin (Android) and Flutter (Web).  
+
+---
+
+### 🔗 Connect with Me
+
+- 🐦 [X (Twitter)](https://x.com/Zaalayna)
+- 🌐 [Bluesky](https://bsky.app/profile/salayna-sachi.bsky.social)
+
+---
+
+> “Curiosity is the engine of achievement.”  
+> *— Ken Robinson*
